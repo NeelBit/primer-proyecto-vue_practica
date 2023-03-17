@@ -1,5 +1,7 @@
 # primer-proyecto
 
+![](https://github.com/NeelBit/primer-proyecto-vue_practica/blob/master/cap.jpeg)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
